@@ -1,0 +1,3 @@
+# lab_summary.md
+
+This lab helped me understand how to connect multiple components into a complete workflow, from retrieving news to processing it with different AI providers and presenting the results. The biggest challenge was maintaining a clear mental model of how the different modules interact and how data flows between them. Without the step-by-step instructions, I would have struggled to structure the project, and AI support was essential in helping me understand and implement each part. It would be helpful if some of the underlying concepts, such as project architecture and module interactions, were introduced before the lab. A future improvement for this project is implementing asynchronous processing, an adittional challenge.
